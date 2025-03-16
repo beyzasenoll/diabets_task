@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+scikit-learn
+catboost
+shap
+seaborn
+matplotlib
+pyarrow
+ipywidgets
+gunicorn
+pydantic
